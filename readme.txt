@@ -1,0 +1,1 @@
+Created phone directory by reading from text file also has option to manually insert and delete the entries. Sorted the directory using Merge Sort based on last name and first name. If first name and last name is same sorted using randomized quick sort based on Phone No, implemented binary search for searching from directory.
